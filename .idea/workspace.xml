@@ -123,8 +123,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="94" />
-    <option name="y" value="53" />
+    <option name="x" value="487" />
+    <option name="y" value="169" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -141,17 +141,6 @@
             <path>
               <item name="edc-project-bak" type="b2602c69:ProjectViewProjectNode" />
               <item name="edc-project-bak" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edc-project-bak" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edc-project-bak" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edc-project-bak" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edc-project-bak" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,16 +196,15 @@
       <workItem from="1528420133720" duration="34818000" />
       <workItem from="1528587083030" duration="19549000" />
       <workItem from="1528672613660" duration="2119000" />
-      <workItem from="1528683800320" duration="1648000" />
+      <workItem from="1528683800320" duration="2228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102892000" />
+    <option name="totallyTimeSpent" value="103472000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="94" y="53" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
+    <frame x="487" y="169" width="1440" height="797" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22222222" />
       <window_info anchor="bottom" id="TODO" order="6" />
